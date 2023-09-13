@@ -1,0 +1,24 @@
+1.- Fichero link simbolico a comando cat
+	ln -s $(which cat) /home/kali/Documentos/tarea120923  
+	
+2.- Un fichero en tar.gz que haya comprimido un archivo de cada uno de los integrantes de su equipo
+	mv Aldo.txt DPX.txt Jared.txt JaviV.txt ONN.txt ficheroAComprimir
+	tar -cvf ficheros.tar Aldo.txt Jared.txt JaviV.txt ONN.txt DPX.txt
+	gzip ficheros.tar
+
+3.- Un fichero que ejecute el comando ping 8.8.8.8 con permsisos s
+	nano ping8.8.sh     
+	chmod +s ping8.8.sh 
+	chmod +x ping8.8.sh 
+
+4.- Directorio con perimiso S
+	mkdir ficheroS 
+	chmod g+s ficheroS
+
+
+
+
+
+
+
+
