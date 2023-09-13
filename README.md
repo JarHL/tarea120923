@@ -73,4 +73,5 @@ Con estos pasos, ha completado las cuatro tareas especificadas. Cada tarea se de
 ## Referencias:
 Gustavo, B. (2019, agosto 17). Cómo crear enlaces simbólicos en Linux. Tutoriales Hostinger. https://www.hostinger.mx/tutoriales/crear-enlace-simbolico-linux
 
+Wikipedia contributors. (s/f). Setuid. Wikipedia, The Free Encyclopedia. https://es.wikipedia.org/w/index.php?title=Setuid&oldid=149699631
 
