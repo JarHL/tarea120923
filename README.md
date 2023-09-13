@@ -70,7 +70,7 @@ Este documento proporciona una descripción y los pasos necesarios para realizar
    ```
 
 Con estos pasos, ha completado las cuatro tareas especificadas. Cada tarea se detalla con sus pasos correspondientes para poder ejecutar las acciones necesarias en un sistema Linux.
-### Referencias:
+## Referencias:
 Gustavo, B. (2019, agosto 17). Cómo crear enlaces simbólicos en Linux. Tutoriales Hostinger. https://www.hostinger.mx/tutoriales/crear-enlace-simbolico-linux
 
 
