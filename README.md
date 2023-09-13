@@ -20,7 +20,7 @@ Este documento proporciona una descripción y los pasos necesarios para realizar
 **Descripción:** En esta tarea, se comprimirán varios archivos en un archivo `tar.gz`.
 
 **Pasos:**
-1. Asegúrese de que los archivos que desea comprimir, en este caso, `Aldo.txt`, `DPX.txt`, `Jared.txt`, `JaviV.txt`, `ONN.txt` y `ficheroAComprimir`, se encuentren en el mismo directorio.
+1. Asegúrese de que los archivos que desea comprimir, en este caso, `Aldo.txt`, `DPX.txt`, `Jared.txt`, `JaviV.txt`, `ONN.txt` y `ficheroAComprimir`, se encuentren en el mismo directorio, par ello en este caso se movieron a la carpeta ficheroAComprimir.
 2. Abra una terminal de comandos en su sistema Linux.
 3. Ejecute los siguientes comandos para comprimir los archivos:
 
@@ -45,7 +45,6 @@ Este documento proporciona una descripción y los pasos necesarios para realizar
 3. Dentro del archivo `ping8.8.sh`, agregue el siguiente contenido:
 
    ```shell
-   #!/bin/bash
    ping 8.8.8.8
    ```
 
@@ -70,4 +69,4 @@ Este documento proporciona una descripción y los pasos necesarios para realizar
    chmod g+s ficheroS
    ```
 
-Con estos pasos, ha completado las cuatro tareas especificadas. Cada tarea se detalla con sus pasos correspondientes para ayudarlo a comprender y ejecutar las acciones necesarias en su sistema Linux.
+Con estos pasos, ha completado las cuatro tareas especificadas. Cada tarea se detalla con sus pasos correspondientes para poder ejecutar las acciones necesarias en un sistema Linux.
